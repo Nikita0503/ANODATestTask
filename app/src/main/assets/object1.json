@@ -1,0 +1,33 @@
+{
+  "user": {
+    "avatarUrl": "https://politeka.net/images/2019/11/15/hW0WlEiY4JGpe6Q3vq4Y17I13LcSXfqfIN55IyMN.jpeg"
+  },
+  "post": {
+    "userAvatarUrl": "https://f.allegroimg.com/s650/037819/5340ef1546c5a080bf0fb0a647ef",
+    "userName": "Rockstar0503",
+    "place": "Kriviy Rih",
+    "content": {
+      "photos": [
+        "https://content.onliner.by/news/1400x5616/c6c82aa66998668155d929bfc096a553.jpeg",
+        "https://www.bmw.ua/content/bmw/marketB4R1/bmw_ua/ru_UA/all-models/x-series/X1/2019/inspire/jcr:content/par/highlight_2b64/highlightitems/highlightitem_4c61/image/mobile.transform/highlight/image.1567410545155.jpg",
+        "https://i.pinimg.com/originals/37/5d/d1/375dd17122b40661d00c3eefc2360d9d.jpg"
+      ],
+      "description": "My favorite cars. Bayerische Motoren Werke AG, commonly referred to as BMW (German pronunciation: (About this soundlisten)), is a German multinational company which produces luxury vehicles and motorcycles. The company was founded in 1916 as a manufacturer of aircraft engines, which it produced from 1917 until 1918 and again from 1933 to 1945.",
+      "likedBy": [
+        "ElonMuskOfficial",
+        "GladValakas",
+        "SomeUser",
+        "Luna",
+        "ANODA"
+      ],
+      "hashTags": [
+        "@Nikita_shevtsiv",
+        "#ANODA",
+        "#TakeMeToWork",
+        "#BMW",
+        "@AndroidStudio"
+      ],
+      "date": "5 HOURS AGO"
+    }
+  }
+}
